@@ -1,4 +1,4 @@
-Datacoin-Bootstrap
+<h3>Datacoin-Bootstrap</h3>
 
 
 bootstrap.dat allows a new Datacoin client to rapidly import the initial blocks from a local file instead of slowly downloading blocks from random peers. This significantly reduces the time it takes to get a client synced with the current blockchain.
