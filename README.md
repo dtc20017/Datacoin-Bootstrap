@@ -5,9 +5,9 @@ bootstrap.dat allows a new Datacoin client to rapidly import the initial blocks 
 
 Regardless of your operating system use the following steps to make use of the bootstrap.dat file:
 
-1.Download bootstrap.dat.gz OR bootstrap.dat.zip from github or mirrors. 
-2.Decompress to obtain bootstrap.dat. 
-3.Put it into the Datacoin datadir. This is the same folder that contains wallet.dat and the blocks folder.
+1. Download bootstrap.dat.gz OR bootstrap.dat.zip from github or mirrors. <br /> 
+2. Decompress to obtain bootstrap.dat. <br /> 
+3. Put it into the Datacoin datadir. This is the same folder that contains wallet.dat and the blocks folder. <br />
 
 Linux: Datacoin's data directory is located in ~/.datacoin/ by default. You can run ls -a to see directories that start with a dot. You can also search for the directory with the following command: find / -name wallet.dat -print 2>/dev/null
 
